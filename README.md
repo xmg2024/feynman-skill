@@ -301,24 +301,13 @@ MIT — 随便用，随便改，随便蒸馏。
 
 **小码哥 xmg2024** — AI Native Coder
 
-| 平台 | 链接 |
-|------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
-| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [AI进化论-花生](https://space.bilibili.com/14097567) |
-| ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花生](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
-
-<img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
-
 <div align="center">
 
 *I'd hate to die twice. It's so boring.*
 
 <br>
 
-MIT License &copy; [花叔 Huashu](https://github.com/xmg2024)
+MIT License &copy; [小码哥 xmg2024](https://github.com/xmg2024)
 
 Made with [女娲.skill](https://github.com/xmg2024/nuwa-skill)
 
